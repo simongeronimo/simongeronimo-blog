@@ -7,4 +7,5 @@ category: 'First'
 
 ## First Post
 
-Just checking the main functions
+Just checking the main functions.
+I will be posting my projects here.
