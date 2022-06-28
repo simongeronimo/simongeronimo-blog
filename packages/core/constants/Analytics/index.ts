@@ -1,4 +1,4 @@
-export const blogGAID = 'GTM-M969BSP';
+export const blogGAID = 'G-8R3YMNKBD7';
 
 export const resumeGAID = 'G-GGTHSEBFXV';
 
